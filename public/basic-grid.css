@@ -1,7 +1,7 @@
 .basic-grid {
     display: grid;
     gap: 1rem;
-
+   
     /* 1 too skinny, too much code */
     /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; */
   
